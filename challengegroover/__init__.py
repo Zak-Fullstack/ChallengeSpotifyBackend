@@ -3,6 +3,7 @@ import logging
 import logging.handlers
 
 from .routes import *
+from .save_data import save_data_to_file
 
 
 def create_app():
@@ -35,5 +36,8 @@ def create_app():
         app.register_blueprint(root)
         app.register_blueprint(auth)
         app.register_blueprint(api)
+
+    # store data
+    save_data_to_file()
 
     return app
