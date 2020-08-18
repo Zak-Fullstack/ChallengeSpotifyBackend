@@ -32,7 +32,7 @@ def callback():
 api = Blueprint("api", "api", url_prefix="/api")
 
 @api.route('/artists')
-def get_user():
+def display_artists():
     AUTH_URL = 'https://accounts.spotify.com/api/token'
 
     # POST
@@ -53,8 +53,8 @@ def get_user():
         'Authorization': 'Bearer ' + access_token,
     })
 
-    data = response.json()
-    return data
+    data = response.json()["albums"]["items"]
+    return jsonify(data)
     # code = request.values["code"]
     # tokens = SpotifyAuth().getUserToken(code)
 # def fetch_artists():

@@ -3,7 +3,7 @@ import logging
 import logging.handlers
 
 from .routes import *
-from .save_data import save_data_to_file
+from .save_data import save_data_to_file, store_in_tinydb
 
 
 def create_app():
@@ -38,6 +38,6 @@ def create_app():
         app.register_blueprint(api)
 
     # store data
-    save_data_to_file()
+    store_in_tinydb()
 
     return app
