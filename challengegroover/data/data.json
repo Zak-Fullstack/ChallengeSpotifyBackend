@@ -2,703 +2,303 @@
   "_default": {
     "1": {
       "artist": "DaBaby",
-      "track name": "BLAME IT ON BABY (DELUXE)",
-      "release date": "2020-08-04"
+      "name of the album": "BLAME IT ON BABY (DELUXE)",
+      "release date": "2020-08-04",
+      "url": "https://open.spotify.com/album/6SL49HqoUwu2hhfukBAK3Q"
     },
     "2": {
       "artist": "Green Team",
-      "track name": "Green Team",
-      "release date": "2020-08-07"
+      "name of the album": "Green Team",
+      "release date": "2020-08-07",
+      "url": "https://open.spotify.com/album/0ZrX1TCsORaOOQT7pTPnhn"
     },
     "3": {
       "artist": "Kids Love Disney",
-      "track name": "Kids Love Disney",
-      "release date": "2020-08-07"
+      "name of the album": "Kids Love Disney",
+      "release date": "2020-08-07",
+      "url": "https://open.spotify.com/album/0waeL4km2PxZJ6je5pjONA"
     },
     "4": {
       "artist": "Glass Animals",
-      "track name": "Dreamland",
-      "release date": "2020-08-07"
+      "name of the album": "Dreamland",
+      "release date": "2020-08-07",
+      "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
     },
     "5": {
       "artist": "Video Age",
-      "track name": "Pleasure Line",
-      "release date": "2020-08-07"
+      "name of the album": "Pleasure Line",
+      "release date": "2020-08-07",
+      "url": "https://open.spotify.com/album/2GnUnlUydP3KFKaKa1aHlq"
     },
     "6": {
       "artist": "Taylor Swift",
-      "track name": "folklore",
-      "release date": "2020-07-24"
+      "name of the album": "folklore",
+      "release date": "2020-07-24",
+      "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
     },
     "7": {
       "artist": "Biffy Clyro",
-      "track name": "A Celebration Of Endings",
-      "release date": "2020-08-14"
+      "name of the album": "A Celebration Of Endings",
+      "release date": "2020-08-14",
+      "url": "https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw"
     },
     "8": {
       "artist": "The Kid LAROI",
-      "track name": "F*CK LOVE",
-      "release date": "2020-07-24"
+      "name of the album": "F*CK LOVE",
+      "release date": "2020-07-24",
+      "url": "https://open.spotify.com/album/6RuwGwQcAureaOraKJNFQG"
     },
     "9": {
       "artist": "The Naked And Famous",
-      "track name": "Recover",
-      "release date": "2020-07-24"
+      "name of the album": "Recover",
+      "release date": "2020-07-24",
+      "url": "https://open.spotify.com/album/7gbFJPoPrkdzH7eihx8l9B"
     },
     "10": {
       "artist": "Cub Sport",
-      "track name": "LIKE NIRVANA",
-      "release date": "2020-07-24"
+      "name of the album": "LIKE NIRVANA",
+      "release date": "2020-07-24",
+      "url": "https://open.spotify.com/album/4RsedgGen8i7PRiw7ejYvj"
     },
     "11": {
       "artist": "Naestro",
-      "track name": "Dans les cordes",
-      "release date": "2020-07-24"
+      "name of the album": "Dans les cordes",
+      "release date": "2020-07-24",
+      "url": "https://open.spotify.com/album/23uN3qFVL4d5HhKtf1crA3"
     },
     "12": {
       "artist": "Logic",
-      "track name": "No Pressure",
-      "release date": "2020-07-24"
+      "name of the album": "No Pressure",
+      "release date": "2020-07-24",
+      "url": "https://open.spotify.com/album/5pF05wJrbrIvqunE41vWP8"
     },
     "13": {
       "artist": "Pop Smoke",
-      "track name": "Shoot For The Stars Aim For The Moon (Deluxe)",
-      "release date": "2020-07-20"
+      "name of the album": "Shoot For The Stars Aim For The Moon (Deluxe)",
+      "release date": "2020-07-20",
+      "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
     },
     "14": {
       "artist": "Bramsito",
-      "track name": "Losa",
-      "release date": "2020-07-16"
+      "name of the album": "Losa",
+      "release date": "2020-07-16",
+      "url": "https://open.spotify.com/album/1teNie7q2r9ik9SHyPkHJn"
     },
     "15": {
-      "artist": "Lianne La Havas",
-      "track name": "Lianne La Havas",
-      "release date": "2020-07-17"
+      "artist": "Lartiste",
+      "name of the album": "Comme avant",
+      "release date": "2020-07-17",
+      "url": "https://open.spotify.com/album/242HLHeaPCa2qgEkJBxNeA"
     },
     "16": {
-      "artist": "Ellie Goulding",
-      "track name": "Brightest Blue",
-      "release date": "2020-07-17"
+      "artist": "Lianne La Havas",
+      "name of the album": "Lianne La Havas",
+      "release date": "2020-07-17",
+      "url": "https://open.spotify.com/album/6JwtB0zzNYy4qANDrJtrJy"
     },
     "17": {
-      "artist": "Lartiste",
-      "track name": "Comme avant",
-      "release date": "2020-07-17"
+      "artist": "Ellie Goulding",
+      "name of the album": "Brightest Blue",
+      "release date": "2020-07-17",
+      "url": "https://open.spotify.com/album/7hCfgsycCFH4bBjEfUwh3S"
     },
     "18": {
       "artist": "Nicolas Jaar",
-      "track name": "Telas",
-      "release date": "2020-07-17"
+      "name of the album": "Telas",
+      "release date": "2020-07-17",
+      "url": "https://open.spotify.com/album/1kY5OXuY6jyo2fQDh76NXg"
     },
     "19": {
       "artist": "Juice WRLD",
-      "track name": "Legends Never Die",
-      "release date": "2020-07-10"
+      "name of the album": "Legends Never Die",
+      "release date": "2020-07-10",
+      "url": "https://open.spotify.com/album/1R6vbGGXSEZZmTGn7ewwRL"
     },
     "20": {
       "artist": "Navii",
-      "track name": "Minuit 17",
-      "release date": "2020-07-10"
+      "name of the album": "Minuit 17",
+      "release date": "2020-07-10",
+      "url": "https://open.spotify.com/album/69PqjhGhX7Nez9Hpb61wem"
     },
     "21": {
-      "artist": "DaBaby",
-      "track name": "BLAME IT ON BABY (DELUXE)",
-      "release date": "2020-08-04"
+      "artist": "joysad",
+      "name of the single": "Fernandez",
+      "release date": "2020-07-10",
+      "url": "https://open.spotify.com/album/3m9WFYVRIEf5E7vSendWL6"
     },
     "22": {
-      "artist": "Green Team",
-      "track name": "Green Team",
-      "release date": "2020-08-07"
+      "artist": "Jeanne Added",
+      "name of the single": "Air",
+      "release date": "2020-07-10",
+      "url": "https://open.spotify.com/album/3Ua6sPrklhZXd390IXKlEO"
     },
     "23": {
-      "artist": "Kids Love Disney",
-      "track name": "Kids Love Disney",
-      "release date": "2020-08-07"
+      "artist": "Lefa",
+      "name of the album": "FAMOUS",
+      "release date": "2020-07-10",
+      "url": "https://open.spotify.com/album/69NyxmUqalJfx2nZqRxoOg"
     },
     "24": {
-      "artist": "Glass Animals",
-      "track name": "Dreamland",
-      "release date": "2020-08-07"
+      "artist": "Gambi",
+      "name of the album": "LA VIE EST BELLE",
+      "release date": "2020-07-10",
+      "url": "https://open.spotify.com/album/3kvyr49ZyZbUSlDF4ty3IK"
     },
     "25": {
-      "artist": "Video Age",
-      "track name": "Pleasure Line",
-      "release date": "2020-08-07"
+      "artist": "RK",
+      "name of the album": "Neverland",
+      "release date": "2020-07-02",
+      "url": "https://open.spotify.com/album/1zPpPF8gbRVjz7ypWsQwK2"
     },
     "26": {
-      "artist": "Taylor Swift",
-      "track name": "folklore",
-      "release date": "2020-07-24"
+      "artist": "Ellie Goulding",
+      "name of the single": "Slow Grenade",
+      "release date": "2020-06-30",
+      "url": "https://open.spotify.com/album/15Zgvxqql6EPHE3NJlUt0R"
     },
     "27": {
-      "artist": "Biffy Clyro",
-      "track name": "A Celebration Of Endings",
-      "release date": "2020-08-14"
+      "artist": "Polo & Pan",
+      "name of the single": "Feel Good",
+      "release date": "2020-07-03",
+      "url": "https://open.spotify.com/album/10H4nbqjbmrGo4bG23dfWK"
     },
     "28": {
-      "artist": "The Kid LAROI",
-      "track name": "F*CK LOVE",
-      "release date": "2020-07-24"
+      "artist": "Tessa B",
+      "name of the album": "Dans ma t\u00eate",
+      "release date": "2020-07-03",
+      "url": "https://open.spotify.com/album/7Bmf41xKw8PdJCqEVI2MhF"
     },
     "29": {
-      "artist": "The Naked And Famous",
-      "track name": "Recover",
-      "release date": "2020-07-24"
+      "artist": "OBOY",
+      "name of the album": "Mafana",
+      "release date": "2020-07-03",
+      "url": "https://open.spotify.com/album/5cnpjofSRJPxR22AriH7Q9"
     },
     "30": {
-      "artist": "Cub Sport",
-      "track name": "LIKE NIRVANA",
-      "release date": "2020-07-24"
+      "artist": "Khruangbin",
+      "name of the album": "Mordechai",
+      "release date": "2020-06-26",
+      "url": "https://open.spotify.com/album/06814vxpRbL5CPMk1CTvOk"
     },
     "31": {
-      "artist": "Naestro",
-      "track name": "Dans les cordes",
-      "release date": "2020-07-24"
+      "artist": "Laurent Boutonnat",
+      "name of the album": "Jacquou le Croquant (Original Motion Picture Soundtrack) [Deluxe Version]",
+      "release date": "2020-06-26",
+      "url": "https://open.spotify.com/album/3zEhu72RhZnRSU4A4oyAnM"
     },
     "32": {
-      "artist": "Logic",
-      "track name": "No Pressure",
-      "release date": "2020-07-24"
+      "artist": "\ubc15\ud61c\uc9c4 Park Hye Jin",
+      "name of the single": "How can I",
+      "release date": "2020-06-26",
+      "url": "https://open.spotify.com/album/7mUyZcmorwXzHxCJZNxXKD"
     },
     "33": {
-      "artist": "Pop Smoke",
-      "track name": "Shoot For The Stars Aim For The Moon (Deluxe)",
-      "release date": "2020-07-20"
+      "artist": "CeeLo Green",
+      "name of the album": "CeeLo Green Is Thomas Callaway",
+      "release date": "2020-06-26",
+      "url": "https://open.spotify.com/album/2FtrghOi4t9mjjay5RBXhf"
     },
     "34": {
-      "artist": "Bramsito",
-      "track name": "Losa",
-      "release date": "2020-07-16"
+      "artist": "Benjamin Biolay",
+      "name of the album": "Grand Prix",
+      "release date": "2020-06-25",
+      "url": "https://open.spotify.com/album/1S0DKCycQJzE4ALK2Q2qhe"
     },
     "35": {
-      "artist": "Lartiste",
-      "track name": "Comme avant",
-      "release date": "2020-07-17"
+      "artist": "Hooss",
+      "name of the album": "Prohib\u00e9, chapitre 3 : Soleil plein",
+      "release date": "2020-06-26",
+      "url": "https://open.spotify.com/album/57eakPClfAFrVWVAyJKiHi"
     },
     "36": {
-      "artist": "Lianne La Havas",
-      "track name": "Lianne La Havas",
-      "release date": "2020-07-17"
+      "artist": "Madame Monsieur",
+      "name of the album": "Tandem",
+      "release date": "2020-06-26",
+      "url": "https://open.spotify.com/album/51pTx5WFjry8ZSjAZFPGsm"
     },
     "37": {
-      "artist": "Ellie Goulding",
-      "track name": "Brightest Blue",
-      "release date": "2020-07-17"
+      "artist": "HAIM",
+      "name of the album": "Women In Music Pt. III",
+      "release date": "2020-06-26",
+      "url": "https://open.spotify.com/album/6NtEjhPWfZcvJQuvjGX4bk"
     },
     "38": {
-      "artist": "Nicolas Jaar",
-      "track name": "Telas",
-      "release date": "2020-07-17"
+      "artist": "6LACK",
+      "name of the single": "6pc Hot EP",
+      "release date": "2020-06-26",
+      "url": "https://open.spotify.com/album/0a8JlEkzJxSKYoiJyzDm3R"
     },
     "39": {
-      "artist": "Juice WRLD",
-      "track name": "Legends Never Die",
-      "release date": "2020-07-10"
+      "artist": "Lauv",
+      "name of the single": "Without You",
+      "release date": "2020-06-24",
+      "url": "https://open.spotify.com/album/3UqBoqEP6JTeAGdrAQdEHD"
     },
     "40": {
-      "artist": "Navii",
-      "track name": "Minuit 17",
-      "release date": "2020-07-10"
+      "artist": "Fakear",
+      "name of the album": "Everything Will Grow Again",
+      "release date": "2020-06-26",
+      "url": "https://open.spotify.com/album/5PL3bssLg2p941ZdKHohsO"
     },
     "41": {
-      "artist": "DaBaby",
-      "track name": "BLAME IT ON BABY (DELUXE)",
-      "release date": "2020-08-04"
+      "artist": "Teyana Taylor",
+      "name of the album": "The Album",
+      "release date": "2020-06-19",
+      "url": "https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR"
     },
     "42": {
-      "artist": "Green Team",
-      "track name": "Green Team",
-      "release date": "2020-08-07"
+      "artist": "Jason Mraz",
+      "name of the album": "Look For The Good",
+      "release date": "2020-06-19",
+      "url": "https://open.spotify.com/album/1mbTSCLbRhFpBV3emeM8Vl"
     },
     "43": {
-      "artist": "Kids Love Disney",
-      "track name": "Kids Love Disney",
-      "release date": "2020-08-07"
+      "artist": "John Legend",
+      "name of the album": "Bigger Love",
+      "release date": "2020-06-19",
+      "url": "https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd"
     },
     "44": {
-      "artist": "Glass Animals",
-      "track name": "Dreamland",
-      "release date": "2020-08-07"
+      "artist": "Bob Dylan",
+      "name of the album": "Rough and Rowdy Ways",
+      "release date": "2020-06-19",
+      "url": "https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB"
     },
     "45": {
-      "artist": "Video Age",
-      "track name": "Pleasure Line",
-      "release date": "2020-08-07"
+      "artist": "Thomas Dutronc",
+      "name of the album": "Frenchy",
+      "release date": "2020-06-19",
+      "url": "https://open.spotify.com/album/33aacw53MZVyxjzjqxcs9o"
     },
     "46": {
-      "artist": "Taylor Swift",
-      "track name": "folklore",
-      "release date": "2020-07-24"
+      "artist": "Black Eyed Peas",
+      "name of the album": "Translation",
+      "release date": "2020-06-18",
+      "url": "https://open.spotify.com/album/2eORe6u9TPXYisYshyXVeH"
     },
     "47": {
-      "artist": "Biffy Clyro",
-      "track name": "A Celebration Of Endings",
-      "release date": "2020-08-14"
+      "artist": "Herv\u00e9",
+      "name of the album": "HYPER",
+      "release date": "2020-06-19",
+      "url": "https://open.spotify.com/album/3dns5KA3O2RPprKFqa30iL"
     },
     "48": {
-      "artist": "The Kid LAROI",
-      "track name": "F*CK LOVE",
-      "release date": "2020-07-24"
+      "artist": "Jul",
+      "name of the album": "La machine",
+      "release date": "2020-06-19",
+      "url": "https://open.spotify.com/album/5e5kGSnnDPARPjjrUdGWjf"
     },
     "49": {
-      "artist": "The Naked And Famous",
-      "track name": "Recover",
-      "release date": "2020-07-24"
+      "artist": "Franglish",
+      "name of the single": "Mood",
+      "release date": "2020-06-11",
+      "url": "https://open.spotify.com/album/6MHjCf691OT322C3sQyeUd"
     },
     "50": {
-      "artist": "Cub Sport",
-      "track name": "LIKE NIRVANA",
-      "release date": "2020-07-24"
-    },
-    "51": {
-      "artist": "Naestro",
-      "track name": "Dans les cordes",
-      "release date": "2020-07-24"
-    },
-    "52": {
-      "artist": "Logic",
-      "track name": "No Pressure",
-      "release date": "2020-07-24"
-    },
-    "53": {
-      "artist": "Pop Smoke",
-      "track name": "Shoot For The Stars Aim For The Moon (Deluxe)",
-      "release date": "2020-07-20"
-    },
-    "54": {
-      "artist": "Bramsito",
-      "track name": "Losa",
-      "release date": "2020-07-16"
-    },
-    "55": {
-      "artist": "Lartiste",
-      "track name": "Comme avant",
-      "release date": "2020-07-17"
-    },
-    "56": {
-      "artist": "Lianne La Havas",
-      "track name": "Lianne La Havas",
-      "release date": "2020-07-17"
-    },
-    "57": {
-      "artist": "Ellie Goulding",
-      "track name": "Brightest Blue",
-      "release date": "2020-07-17"
-    },
-    "58": {
-      "artist": "Nicolas Jaar",
-      "track name": "Telas",
-      "release date": "2020-07-17"
-    },
-    "59": {
-      "artist": "Juice WRLD",
-      "track name": "Legends Never Die",
-      "release date": "2020-07-10"
-    },
-    "60": {
-      "artist": "Navii",
-      "track name": "Minuit 17",
-      "release date": "2020-07-10"
-    },
-    "61": {
-      "artist": "joysad",
-      "track name": "Fernandez",
-      "release date": "2020-07-10"
-    },
-    "62": {
-      "artist": "Jeanne Added",
-      "track name": "Air",
-      "release date": "2020-07-10"
-    },
-    "63": {
-      "artist": "Lefa",
-      "track name": "FAMOUS",
-      "release date": "2020-07-10"
-    },
-    "64": {
-      "artist": "Gambi",
-      "track name": "LA VIE EST BELLE",
-      "release date": "2020-07-10"
-    },
-    "65": {
-      "artist": "RK",
-      "track name": "Neverland",
-      "release date": "2020-07-02"
-    },
-    "66": {
-      "artist": "Ellie Goulding",
-      "track name": "Slow Grenade",
-      "release date": "2020-06-30"
-    },
-    "67": {
-      "artist": "Polo & Pan",
-      "track name": "Feel Good",
-      "release date": "2020-07-03"
-    },
-    "68": {
-      "artist": "Tessa B",
-      "track name": "Dans ma t\u00eate",
-      "release date": "2020-07-03"
-    },
-    "69": {
-      "artist": "OBOY",
-      "track name": "Mafana",
-      "release date": "2020-07-03"
-    },
-    "70": {
-      "artist": "Khruangbin",
-      "track name": "Mordechai",
-      "release date": "2020-06-26"
-    },
-    "71": {
-      "artist": "Laurent Boutonnat",
-      "track name": "Jacquou le Croquant (Original Motion Picture Soundtrack) [Deluxe Version]",
-      "release date": "2020-06-26"
-    },
-    "72": {
-      "artist": "\ubc15\ud61c\uc9c4 Park Hye Jin",
-      "track name": "How can I",
-      "release date": "2020-06-26"
-    },
-    "73": {
-      "artist": "CeeLo Green",
-      "track name": "CeeLo Green Is Thomas Callaway",
-      "release date": "2020-06-26"
-    },
-    "74": {
-      "artist": "Benjamin Biolay",
-      "track name": "Grand Prix",
-      "release date": "2020-06-25"
-    },
-    "75": {
-      "artist": "Hooss",
-      "track name": "Prohib\u00e9, chapitre 3 : Soleil plein",
-      "release date": "2020-06-26"
-    },
-    "76": {
-      "artist": "Madame Monsieur",
-      "track name": "Tandem",
-      "release date": "2020-06-26"
-    },
-    "77": {
-      "artist": "HAIM",
-      "track name": "Women In Music Pt. III",
-      "release date": "2020-06-26"
-    },
-    "78": {
-      "artist": "6LACK",
-      "track name": "6pc Hot EP",
-      "release date": "2020-06-26"
-    },
-    "79": {
-      "artist": "Lauv",
-      "track name": "Without You",
-      "release date": "2020-06-24"
-    },
-    "80": {
-      "artist": "Fakear",
-      "track name": "Everything Will Grow Again",
-      "release date": "2020-06-26"
-    },
-    "81": {
-      "artist": "Teyana Taylor",
-      "track name": "The Album",
-      "release date": "2020-06-19"
-    },
-    "82": {
-      "artist": "Jason Mraz",
-      "track name": "Look For The Good",
-      "release date": "2020-06-19"
-    },
-    "83": {
-      "artist": "John Legend",
-      "track name": "Bigger Love",
-      "release date": "2020-06-19"
-    },
-    "84": {
-      "artist": "Bob Dylan",
-      "track name": "Rough and Rowdy Ways",
-      "release date": "2020-06-19"
-    },
-    "85": {
-      "artist": "Thomas Dutronc",
-      "track name": "Frenchy",
-      "release date": "2020-06-19"
-    },
-    "86": {
-      "artist": "Black Eyed Peas",
-      "track name": "Translation",
-      "release date": "2020-06-18"
-    },
-    "87": {
-      "artist": "Herv\u00e9",
-      "track name": "HYPER",
-      "release date": "2020-06-19"
-    },
-    "88": {
-      "artist": "Jul",
-      "track name": "La machine",
-      "release date": "2020-06-19"
-    },
-    "89": {
-      "artist": "Franglish",
-      "track name": "Mood",
-      "release date": "2020-06-11"
-    },
-    "90": {
       "artist": "Muddy Monk",
-      "track name": "Ultra Tape",
-      "release date": "2020-06-12"
-    },
-    "91": {
-      "artist": "DaBaby",
-      "track name": "BLAME IT ON BABY (DELUXE)",
-      "release date": "2020-08-04"
-    },
-    "92": {
-      "artist": "Green Team",
-      "track name": "Green Team",
-      "release date": "2020-08-07"
-    },
-    "93": {
-      "artist": "Kids Love Disney",
-      "track name": "Kids Love Disney",
-      "release date": "2020-08-07"
-    },
-    "94": {
-      "artist": "Glass Animals",
-      "track name": "Dreamland",
-      "release date": "2020-08-07"
-    },
-    "95": {
-      "artist": "Video Age",
-      "track name": "Pleasure Line",
-      "release date": "2020-08-07"
-    },
-    "96": {
-      "artist": "Taylor Swift",
-      "track name": "folklore",
-      "release date": "2020-07-24"
-    },
-    "97": {
-      "artist": "Biffy Clyro",
-      "track name": "A Celebration Of Endings",
-      "release date": "2020-08-14"
-    },
-    "98": {
-      "artist": "The Kid LAROI",
-      "track name": "F*CK LOVE",
-      "release date": "2020-07-24"
-    },
-    "99": {
-      "artist": "The Naked And Famous",
-      "track name": "Recover",
-      "release date": "2020-07-24"
-    },
-    "100": {
-      "artist": "Cub Sport",
-      "track name": "LIKE NIRVANA",
-      "release date": "2020-07-24"
-    },
-    "101": {
-      "artist": "Naestro",
-      "track name": "Dans les cordes",
-      "release date": "2020-07-24"
-    },
-    "102": {
-      "artist": "Logic",
-      "track name": "No Pressure",
-      "release date": "2020-07-24"
-    },
-    "103": {
-      "artist": "Pop Smoke",
-      "track name": "Shoot For The Stars Aim For The Moon (Deluxe)",
-      "release date": "2020-07-20"
-    },
-    "104": {
-      "artist": "Bramsito",
-      "track name": "Losa",
-      "release date": "2020-07-16"
-    },
-    "105": {
-      "artist": "Lianne La Havas",
-      "track name": "Lianne La Havas",
-      "release date": "2020-07-17"
-    },
-    "106": {
-      "artist": "Ellie Goulding",
-      "track name": "Brightest Blue",
-      "release date": "2020-07-17"
-    },
-    "107": {
-      "artist": "Lartiste",
-      "track name": "Comme avant",
-      "release date": "2020-07-17"
-    },
-    "108": {
-      "artist": "Nicolas Jaar",
-      "track name": "Telas",
-      "release date": "2020-07-17"
-    },
-    "109": {
-      "artist": "Juice WRLD",
-      "track name": "Legends Never Die",
-      "release date": "2020-07-10"
-    },
-    "110": {
-      "artist": "Navii",
-      "track name": "Minuit 17",
-      "release date": "2020-07-10"
-    },
-    "111": {
-      "artist": "joysad",
-      "track name": "Fernandez",
-      "release date": "2020-07-10"
-    },
-    "112": {
-      "artist": "Jeanne Added",
-      "track name": "Air",
-      "release date": "2020-07-10"
-    },
-    "113": {
-      "artist": "Lefa",
-      "track name": "FAMOUS",
-      "release date": "2020-07-10"
-    },
-    "114": {
-      "artist": "Gambi",
-      "track name": "LA VIE EST BELLE",
-      "release date": "2020-07-10"
-    },
-    "115": {
-      "artist": "RK",
-      "track name": "Neverland",
-      "release date": "2020-07-02"
-    },
-    "116": {
-      "artist": "Ellie Goulding",
-      "track name": "Slow Grenade",
-      "release date": "2020-06-30"
-    },
-    "117": {
-      "artist": "Polo & Pan",
-      "track name": "Feel Good",
-      "release date": "2020-07-03"
-    },
-    "118": {
-      "artist": "Tessa B",
-      "track name": "Dans ma t\u00eate",
-      "release date": "2020-07-03"
-    },
-    "119": {
-      "artist": "OBOY",
-      "track name": "Mafana",
-      "release date": "2020-07-03"
-    },
-    "120": {
-      "artist": "Khruangbin",
-      "track name": "Mordechai",
-      "release date": "2020-06-26"
-    },
-    "121": {
-      "artist": "Laurent Boutonnat",
-      "track name": "Jacquou le Croquant (Original Motion Picture Soundtrack) [Deluxe Version]",
-      "release date": "2020-06-26"
-    },
-    "122": {
-      "artist": "\ubc15\ud61c\uc9c4 Park Hye Jin",
-      "track name": "How can I",
-      "release date": "2020-06-26"
-    },
-    "123": {
-      "artist": "CeeLo Green",
-      "track name": "CeeLo Green Is Thomas Callaway",
-      "release date": "2020-06-26"
-    },
-    "124": {
-      "artist": "Benjamin Biolay",
-      "track name": "Grand Prix",
-      "release date": "2020-06-25"
-    },
-    "125": {
-      "artist": "Hooss",
-      "track name": "Prohib\u00e9, chapitre 3 : Soleil plein",
-      "release date": "2020-06-26"
-    },
-    "126": {
-      "artist": "Madame Monsieur",
-      "track name": "Tandem",
-      "release date": "2020-06-26"
-    },
-    "127": {
-      "artist": "HAIM",
-      "track name": "Women In Music Pt. III",
-      "release date": "2020-06-26"
-    },
-    "128": {
-      "artist": "6LACK",
-      "track name": "6pc Hot EP",
-      "release date": "2020-06-26"
-    },
-    "129": {
-      "artist": "Lauv",
-      "track name": "Without You",
-      "release date": "2020-06-24"
-    },
-    "130": {
-      "artist": "Fakear",
-      "track name": "Everything Will Grow Again",
-      "release date": "2020-06-26"
-    },
-    "131": {
-      "artist": "Teyana Taylor",
-      "track name": "The Album",
-      "release date": "2020-06-19"
-    },
-    "132": {
-      "artist": "Jason Mraz",
-      "track name": "Look For The Good",
-      "release date": "2020-06-19"
-    },
-    "133": {
-      "artist": "John Legend",
-      "track name": "Bigger Love",
-      "release date": "2020-06-19"
-    },
-    "134": {
-      "artist": "Bob Dylan",
-      "track name": "Rough and Rowdy Ways",
-      "release date": "2020-06-19"
-    },
-    "135": {
-      "artist": "Thomas Dutronc",
-      "track name": "Frenchy",
-      "release date": "2020-06-19"
-    },
-    "136": {
-      "artist": "Black Eyed Peas",
-      "track name": "Translation",
-      "release date": "2020-06-18"
-    },
-    "137": {
-      "artist": "Herv\u00e9",
-      "track name": "HYPER",
-      "release date": "2020-06-19"
-    },
-    "138": {
-      "artist": "Jul",
-      "track name": "La machine",
-      "release date": "2020-06-19"
-    },
-    "139": {
-      "artist": "Franglish",
-      "track name": "Mood",
-      "release date": "2020-06-11"
-    },
-    "140": {
-      "artist": "Muddy Monk",
-      "track name": "Ultra Tape",
-      "release date": "2020-06-12"
+      "name of the single": "Ultra Tape",
+      "release date": "2020-06-12",
+      "url": "https://open.spotify.com/album/5dnqKUHFMBeHcMQGXPpRXe"
     }
   }
 }

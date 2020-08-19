@@ -4,11 +4,10 @@ import requests
 import os
 import errno
 
-
 CLIENT_ID=os.environ.get("CLIENT_ID")
 CLIENT_SECRET=os.environ.get("CLIENT_SECRET")
 
-def save_data_to_file():
+def fetch_data():
     AUTH_URL = 'https://accounts.spotify.com/api/token'
 
     # POST
@@ -28,29 +27,27 @@ def save_data_to_file():
         'Authorization': 'Bearer ' + access_token,
     })
 
-
-
-    # write data to file
-    # with open(filename, "w") as write_file:
-
     artist_name = []
     track_name = []
     release_date = []
-    for i in range(len(response.json()["albums"]["items"])):
+    album_type = []
+    url = []
+    n = len(response.json()["albums"]["items"])
+    for i in range(n):
         artist_name.append(response.json()["albums"]["items"][i]["artists"][0]["name"])
         track_name.append(response.json()["albums"]["items"][i]["name"])
         release_date.append(response.json()["albums"]["items"][i]["release_date"])
-    return (artist_name, track_name, release_date)
-            # json.dump(artist_name, write_file, indent=2)
-            # json.dump(track_name, write_file, indent=2)
-            # json.dump(release_data, write_file, indent=2)
+        album_type.append(response.json()["albums"]["items"][i]["album_type"])
+        url.append(response.json()["albums"]["items"][i]["external_urls"]["spotify"])
+
+    return (artist_name, track_name, release_date, album_type, url)
 
 
 
-def store_in_tinydb():
-    (artist_names, track_names, release_dates) = save_data_to_file()
+def store_data_in_db():
+    (artist_names, track_names, release_dates, album_types, urls) = fetch_data()
 
-    #create output file
+    #create the output json file
     filename = "challengegroover/data/data.json"
 
     if not os.path.exists(os.path.dirname(filename)):
@@ -59,13 +56,11 @@ def store_in_tinydb():
         except OSError as exc: # Guard against race condition
             if exc.errno != errno.EEXIST:
                 raise
+    else: #empty the file
+        open(filename, 'w').close()
 
-    db = TinyDB('challengegroover/data/data.json', indent=2)
+    # fill the database
+    db = TinyDB(filename, indent=2)
     for i in range(len(artist_names)):
-        db.insert({'artist': artist_names[i], 'track name': track_names[i], 'release date': release_dates[i]})
-    # db.insert({'artist': artist_names[0], 'track name': track_names[0], 'release date': release_dates[0]})
-    # print()
-    # print()
-    # print(artist_names[0])
-
-# store_in_tinydb()
+        db.insert({'artist': artist_names[i], 'name of the ' + album_types[i] : track_names[i],
+                 'release date': release_dates[i], 'url': urls[i]})

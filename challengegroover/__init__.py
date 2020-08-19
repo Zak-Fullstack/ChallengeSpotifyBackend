@@ -3,7 +3,7 @@ import logging
 import logging.handlers
 
 from .routes import *
-from .save_data import save_data_to_file, store_in_tinydb
+from .save_data import store_data_in_db
 
 
 def create_app():
@@ -29,6 +29,9 @@ def create_app():
     )
     app.logger.addHandler(handler)
 
+    # store data
+    store_data_in_db()
+
     # routes
     with app.app_context():
         from .routes import auth, root, api
@@ -37,7 +40,5 @@ def create_app():
         app.register_blueprint(auth)
         app.register_blueprint(api)
 
-    # store data
-    store_in_tinydb()
 
     return app
