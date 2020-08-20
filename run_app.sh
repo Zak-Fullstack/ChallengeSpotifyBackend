@@ -1,4 +1,0 @@
-FLASK_ENV=development \
-CLIENT_ID='180c7135a1b34458a06f9bcf7facb0b5' \
-CLIENT_SECRET='9e44d1bf307c49a8b87b9105e261f43d' \
-flask run
