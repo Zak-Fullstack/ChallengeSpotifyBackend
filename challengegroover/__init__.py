@@ -3,8 +3,8 @@ import logging
 import logging.handlers
 
 from .routes import *
-from .save_data import store_data_in_db
-
+from .spotify_fetch import SpotifyFetch
+from .schedule import should_update
 
 def create_app():
     # config
@@ -29,8 +29,10 @@ def create_app():
     )
     app.logger.addHandler(handler)
 
-    # store data
-    store_data_in_db()
+    # update the database every day
+    filename = SpotifyFetch().DBNAME
+    if (os.path.exists(filename) == False) or should_update(filename):
+        SpotifyFetch().store_new_releases_in_db()
 
     # routes
     with app.app_context():
@@ -39,6 +41,5 @@ def create_app():
         app.register_blueprint(root)
         app.register_blueprint(auth)
         app.register_blueprint(api)
-
 
     return app
